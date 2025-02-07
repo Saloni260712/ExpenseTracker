@@ -3,6 +3,9 @@
 🚀 A simple **Expense Tracker App** built with **SwiftUI** that allows users to **add, view, filter, edit, and delete expenses**.
 
 ## 📸 Screenshots
+<img src="![Image](https://github.com/user-attachments/assets/1c09dd49-3668-4aad-8ef7-7eecb5b5310a)" width="300">
+
+
 ![Image](https://github.com/user-attachments/assets/1c09dd49-3668-4aad-8ef7-7eecb5b5310a)
 ![Image](https://github.com/user-attachments/assets/cd1f2962-d213-4305-a3f6-4488aa940e2e)
 ![Image](https://github.com/user-attachments/assets/06804caa-64e7-4529-a3d7-c3c5b032d07c)
